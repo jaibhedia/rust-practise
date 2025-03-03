@@ -1,0 +1,1 @@
+/mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-practise-week3/projects/hello_cargo/target/debug/hello_cargo: /mnt/c/Users/shann/Downloads/Catalog-Assignments/rust-practise-week3/projects/hello_cargo/src/main.rs
